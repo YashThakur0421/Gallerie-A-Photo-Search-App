@@ -17,4 +17,4 @@
 
 
 ## Hosted URL
-- https://html-gallerie.netlify.app
+- [https://html-gallerie.netlify.app](https://yashthakur0421.github.io/Gallerie-A-Photo-Search-App/)
